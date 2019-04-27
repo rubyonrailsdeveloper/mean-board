@@ -15,6 +15,3 @@ h2 {
 .post .post-body{
  white-space: pre-line; /* 1 */
 }
-.post .posts .date{
- width: 100px;
-}
